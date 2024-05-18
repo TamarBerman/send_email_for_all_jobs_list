@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Project Title: Email Sender for Job Recruiting
 
 This script is designed to send messages to a list of emails, specifically created for sending emails to lists of job recruiting contacts.
@@ -71,4 +70,3 @@ if needed you can import from the helpers folder function to check if email is v
 
 =======
 # send_email_for_all_jobs_list
->>>>>>> 679edb2c61814f2ce77b70fa53e056eee08328eb
