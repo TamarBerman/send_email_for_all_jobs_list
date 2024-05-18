@@ -13,10 +13,10 @@ This script is designed to send messages to a list of emails, specifically creat
 Ensure you have Python 3.x installed on your PC. Follow these steps:
 
 1. Clone or fork the repository:
-   git clone https://github.com/TamarBerman/send_email_for_all_jobs_list.git
+   ```git clone https://github.com/TamarBerman/send_email_for_all_jobs_list.git```
 
 4. Install the required Python packages:
-   pip install python-dotenv email-validator
+   ```pip install python-dotenv email-validator```
 
 ## Setup
 
