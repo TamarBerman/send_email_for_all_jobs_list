@@ -66,7 +66,3 @@ it will print the list of successful emails
 and unsuccessful emails 
 ### helpers 
 if needed you can import from the helpers folder function to check if email is valid and remove duplicate emails 
-
-
-=======
-# send_email_for_all_jobs_list
