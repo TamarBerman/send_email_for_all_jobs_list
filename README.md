@@ -1,4 +1,4 @@
-## Project Title: Email Sender for Job Recruiting
+# Email Sender for Job Recruiting
 
 This script is designed to send messages to a list of emails, specifically created for sending emails to lists of job recruiting contacts.
 
